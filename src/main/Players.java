@@ -1,6 +1,6 @@
 package main;
 
-import javax.swing.*;
+import javax.swing.JOptionPane;
 
 public class Players
 {

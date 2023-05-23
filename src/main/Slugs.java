@@ -1,7 +1,7 @@
 package main;
 
 import java.util.Random;
-import javax.swing.*;
+import javax.swing.JOptionPane;
 
 public class Slugs
 {

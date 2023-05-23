@@ -1,6 +1,6 @@
 package main;
 
-import javax.swing.*;
+import javax.swing.JButton;
 
 public class BButton extends JButton //Inherits attributes of the JButton class
 {
